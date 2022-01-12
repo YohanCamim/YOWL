@@ -1,0 +1,24 @@
+- couleur des articles et des commentaires liés à l'utilisateur connectés
+- police d'écriture uniforme
+
+- systeme de pouce gérer en front au lieu du back ?
+- api pouce gérer dans le widget pouce et seulement mettre à jour les pouces et non tous les articles
+
+- avoir le nom de l'auteur d'un article au lieu de son numéro
+
+- systeme d'abonnement (permet d'ajouter un article et mettre des commentaires)
+
+- php route pour savoir si une url est deja utilisé
+
+OK flux sans enregistrement
+OK mettre des info bulles
+- enlever les commentaires
+- enlever les console.log()
+- documentation sur les routes
+- documentation sur l'api
+OK police d'écriture 'Lato Regular 400' qui est l'une des polices les plus agréable à lire
+- SEO
+- effacer l'email de l'utilisateur avant envoye
+
+memo
+- bloquer scroll si modal
